@@ -1,0 +1,122 @@
+,Name,Damage_Type,Roles,Range,Pro1,Pro2,Pro3,Health,HealthPerLevel,HealthPerFive,HP5PerLevel,Mana,ManaPerLevel,ManaPerFive,MP5PerLevel,PhysicalProtection,PhysicalProtectionPerLevel,MagicProtection,MagicProtectionPerLevel,AttackSpeed,AttackSpeedPerLevel,AutoAttackDamage,AutoAttackDamagePerLevel,Speed
+0,Achilles,Physical,Warrior,"Melee,",High Single Target Damage, High Mobility,,665,89,9,0.75,205,35,4.7,0.39,23.8,3.2,38.4,1.2,0.95,0.012,38.0,2.0,370
+1,Agni,Magical,Mage,"Ranged,",High Area Damage,,,504,75,7,0.47,255,45,4.7,0.37,15.4,2.8,38.4,1.2,1.0,0.012,34.0,1.5,355
+2,Ah Muzen Cab,Physical,Hunter,"Ranged,",High Movement Speed, High Attack Speed,,630,77,7,0.71,230,40,4.4,0.38,16.8,3.2,38.4,1.2,0.95,0.016,38.0,2.2,365
+3,Ah Puch,Magical,Mage,"Ranged,",High Area Damage,,,630,79,6,0.45,265,55,4.9,0.42,18.2,2.9,38.4,1.2,0.86,0.008,35.0,1.5,365
+4,Amaterasu,Physical,Warrior,"Melee,",High Area Damage, High Mobility,,672,89,8,0.8,220,35,4.8,0.4,25.2,3.2,38.4,1.2,1.0,0.014,39.0,2.0,375
+5,Anhur,Physical,Hunter,"Ranged,",High Single Target Damage,,,644,82,8,0.69,220,35,4.5,0.32,15.4,3.0,38.4,1.2,0.9,0.015,40.0,2.5,365
+6,Anubis,Magical,Mage,"Ranged,",High Area Damage,,,532,74,7,0.45,280,58,4.8,0.36,14.0,2.7,38.4,1.2,0.86,0.009,35.0,1.5,360
+7,Ao Kuang,Magical,Mage,"Melee,",High Single Target Damage,,,560,86,10,0.7,240,38,4.8,0.41,16.8,3.2,38.4,1.2,1.0,0.02,35.0,2.4,375
+8,Aphrodite,Magical,Mage,"Ranged,",High Sustain,,,532,71,6,0.45,240,43,4.8,0.41,12.6,2.9,38.4,1.2,0.87,0.008,32.0,1.45,355
+9,Apollo,Physical,Hunter,"Ranged,",High Mobility,,,630,81,8,0.69,225,40,4.6,0.4,16.8,2.9,38.4,1.2,0.95,0.016,40.0,2.6,365
+10,Arachne,Physical,Assassin,"Melee,",High Single Target Damage, Great Jungler,,623,83,9,0.67,210,41,4.8,0.46,18.2,3.2,38.4,1.2,1.0,0.02,38.0,2.2,375
+11,Ares,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,679,95,8,0.67,200,37,4.6,0.42,28.0,3.2,38.4,1.2,0.9,0.011,38.0,1.55,365
+12,Artemis,Physical,Hunter,"Ranged,",High Single Target Damage,,,630,79,8,0.68,205,34,4.4,0.25,16.8,3.2,38.4,1.2,0.95,0.016,35.0,2.5,365
+13,Artio,Magical,Guardian,"Melee,",High Crowd Control, High Sustain,,700,100,8,0.9,210,39,4.6,0.43,28.0,3.5,38.4,1.2,1.0,0.012,38.0,1.5,365
+14,Athena,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,700,105,8,0.9,190,34,4.6,0.42,28.0,3.5,38.4,1.2,1.0,0.012,35.0,1.5,365
+15,Atlas,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,714,105,8,0.8,190,35,5.0,0.4,28.0,3.5,38.4,1.2,0.95,0.011,37.0,1.5,370
+16,Awilix,Physical,Assassin,"Melee,",High Single Target Damage, High Mobility,,665,81,10,0.68,240,38,3.9,0.46,18.2,3.2,38.4,1.2,1.0,0.019,38.0,2.16,370
+17,Baba Yaga,Magical,Mage,"Ranged,",High Area Damage,,,560,77,8,0.5,280,50,5.0,0.6,15.4,2.9,38.4,1.2,0.95,0.01,35.0,1.5,365
+18,Bacchus,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,693,90,8,0.8,200,40,4.8,0.4,26.6,3.2,38.4,1.2,0.88,0.009,37.0,1.5,365
+19,Bakasura,Physical,Assassin,"Melee,",High Single Target Damage,,,637,82,9,0.68,200,39,4.8,0.46,18.2,3.0,38.4,1.2,1.0,0.016,38.0,2.2,370
+20,Baron Samedi,Magical,Mage,"Ranged,",High Crowd Control, High Sustain, Medium Area Damage,532,84,7,0.6,300,44,5.0,0.45,25.2,2.8,38.4,1.2,0.9,0.007,34.0,1.5,360
+21,Bastet,Physical,Assassin,"Melee,",High Single Target Damage,,,581,84,9,0.72,230,39,4.4,0.25,16.8,3.1,38.4,1.2,1.0,0.02,37.0,2.21,375
+22,Bellona,Physical,Warrior,"Melee,",High Defense,,,686,92,8,0.8,220,35,4.8,0.4,25.2,3.2,38.4,1.2,1.0,0.012,36.0,2.0,375
+23,Cabrakan,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,686,95,8,0.75,200,38,4.6,0.42,28.0,3.6,38.4,1.2,0.9,0.011,38.0,1.5,365
+24,Camazotz,Physical,Assassin,"Melee,",High Sustain, Great Jungler,,616,82,8,0.67,240,35,4.4,0.3,15.4,3.2,38.4,1.2,1.0,0.02,39.0,2.3,375
+25,Cerberus,Magical,Guardian,"Melee,",Medium Crowd Control, Medium Area Damage,,686,100,7,0.75,200,35,4.6,0.4,26.6,3.2,38.4,1.2,1.0,0.01,38.0,1.5,360
+26,Cernunnos,Physical,Hunter,"Ranged,",High Area Damage, High Crowd Control,,672,84,8,0.69,220,37,4.5,0.32,18.2,3.1,38.4,1.2,1.0,0.014,37.0,2.5,365
+27,Chaac,Physical,Warrior,"Melee,",High Sustain,,,686,92,7,0.8,205,35,4.7,0.39,25.2,3.2,38.4,1.2,1.0,0.012,39.0,2.1,375
+28,Chang'e,Magical,Mage,"Ranged,",High Sustain, High Mobility,,574,84,6,0.45,310,48,5.5,0.44,15.4,2.9,38.4,1.2,1.0,0.01,32.0,1.45,355
+29,Charybdis,Physical,Hunter,"Ranged,",High Attack Speed,,,616,81,7,0.69,220,38,4.4,0.38,15.4,3.1,38.4,1.2,0.95,0.015,38.0,2.6,365
+30,Chernobog,Physical,Hunter,"Ranged,",High Single Target Damage, High Attack Speed,,630,84,8,0.67,220,38,4.4,0.35,15.4,3.2,38.4,1.2,0.95,0.016,36.0,2.6,365
+31,Chiron,Physical,Hunter,"Ranged,",High Sustain, High Movement Speed,,644,79,6,0.65,225,40,4.4,0.38,16.8,3.0,38.4,1.2,1.0,0.014,35.0,2.35,380
+32,Chronos,Magical,Mage,"Ranged,",Medium Crowd Control, High Mobility,,560,79,7,0.48,240,42,4.4,0.44,15.4,3.1,38.4,1.2,1.0,0.015,40.0,1.5,360
+33,Cliodhna,Physical,Assassin,"Melee,",High Single Target Damage,,,665,81,9,0.85,225,40,4.3,0.4,16.8,3.3,38.4,1.2,1.0,0.022,41.0,2.25,375
+34,Cthulhu,Magical,Guardian,"Melee,",High Area Damage,,,700,100,8,0.8,210,38,4.6,0.42,29.4,3.5,38.4,1.2,0.9,0.011,38.0,1.5,370
+35,Cu Chulainn,Physical,Warrior,"Melee,",High Area Damage, High Crowd Control,,672,89,7,0.75,100,0,0.0,0.0,23.8,3.2,38.4,1.2,1.0,0.012,39.0,2.0,370
+36,Cupid,Physical,Hunter,"Ranged,",High Single Target Damage, High Sustain,,623,76,8,0.67,230,39,4.6,0.35,15.4,3.2,38.4,1.2,0.95,0.017,35.0,2.3,365
+37,Da Ji,Physical,Assassin,"Melee,",High Single Target Damage,,,616,80,9,0.7,210,40,4.6,0.37,19.6,3.2,38.4,1.2,1.0,0.02,39.0,2.25,375
+38,Danzaburou,Physical,Hunter,"Ranged,",High Area Damage,,,644,82,7,0.69,230,38,4.4,0.38,18.2,3.1,38.4,1.2,1.0,0.014,40.0,2.6,370
+39,Discordia,Magical,Mage,"Ranged,",High Area Damage,,,518,71,7,0.45,280,51,5.0,0.43,12.6,2.9,38.4,1.2,0.9,0.009,34.0,1.5,360
+40,Erlang Shen,Physical,Warrior,"Melee,",High Single Target Damage, High Attack Speed,,679,89,8,0.6,220,35,4.7,0.3,23.8,3.2,38.4,1.2,1.0,0.01,39.0,2.0,375
+41,Eset,Magical,Mage,"Ranged,",High Area Damage, High Crowd Control,,511,71,6,0.45,280,51,4.8,0.43,12.6,2.9,38.4,1.2,1.0,0.0,35.0,1.5,360
+42,Fafnir,Magical,Guardian,"Melee,",High Defense, High Mobility,,693,95,7,0.54,200,40,4.5,0.45,29.4,3.7,38.4,1.2,0.9,0.011,37.0,1.55,365
+43,Fenrir,Physical,Assassin,"Melee,",High Single Target Damage, High Mobility,,637,82,8,0.73,230,35,4.2,0.26,19.6,3.2,38.4,1.2,1.0,0.017,38.0,2.3,370
+44,Freya,Magical,Mage,"Melee,",High Area Damage, Medium Crowd Control,,567,84,7,0.52,220,37,4.5,0.39,19.6,3.0,38.4,1.2,0.95,0.019,35.0,1.5,375
+45,Ganesha,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,693,100,6,0.67,200,40,4.6,0.42,28.0,3.5,38.4,1.2,1.0,0.012,38.0,1.55,360
+46,Geb,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,714,95,8,0.8,190,34,4.6,0.4,26.6,3.2,38.4,1.2,1.0,0.012,38.0,1.5,360
+47,Gilgamesh,Physical,Warrior,"Melee,",High Defense,,,672,89,10,0.8,210,35,4.3,0.39,25.2,3.2,38.4,1.2,1.0,0.012,34.0,2.3,375
+48,Guan Yu,Physical,Warrior,"Melee,",High Sustain, High Mobility,,672,91,6,0.7,220,39,4.8,0.45,22.4,3.2,38.4,1.2,1.0,0.012,37.0,2.0,375
+49,Hachiman,Physical,Hunter,"Ranged,",High Single Target Damage, High Mobility,,637,81,7,0.69,230,36,4.5,0.37,15.4,3.0,38.4,1.2,1.0,0.013,36.0,2.5,365
+50,Hades,Magical,Mage,"Ranged,",High Defense, High Sustain,,665,89,5,0.54,265,53,5.0,0.36,25.2,2.8,38.4,1.2,0.95,0.01,32.0,1.5,365
+51,He Bo,Magical,Mage,"Ranged,",High Area Damage, Medium Crowd Control,,560,70,6,0.45,298,56,4.9,0.4,12.6,2.8,38.4,1.2,0.86,0.008,34.0,1.45,355
+52,Heimdallr,Physical,Hunter,"Ranged,",High Single Target Damage,,,672,84,8,0.8,230,34,4.5,0.4,22.4,3.2,38.4,1.2,0.96,0.014,32.0,3.0,365
+53,Hel,Magical,Mage,"Ranged,",High Area Damage, High Sustain,,574,70,5,0.43,300,57,5.0,0.45,12.6,2.8,38.4,1.2,0.86,0.008,33.0,1.5,355
+54,Hera,Magical,Mage,"Ranged,",High Area Damage, High Crowd Control,,532,71,6,0.45,265,45,4.8,0.41,12.6,2.9,38.4,1.2,0.9,0.009,34.0,1.45,365
+55,Hercules,Physical,Warrior,"Melee,",High Single Target Damage, High Sustain,,686,93,7,0.63,205,32,4.3,0.4,25.2,3.2,38.4,1.2,1.0,0.008,39.0,2.0,375
+56,Horus,Physical,Warrior,"Melee,",High Defense, High Sustain,,679,88,6,0.8,230,37,4.7,0.45,23.8,3.2,38.4,1.2,1.0,0.012,37.0,2.1,370
+57,Hou Yi,Physical,Hunter,"Ranged,",High Area Damage, High Single Target Damage,,672,82,8,0.68,240,38,5.0,0.35,18.2,3.0,38.4,1.2,0.95,0.011,40.0,2.8,370
+58,Hun Batz,Physical,Assassin,"Melee,",High Single Target Damage,,,644,79,10,0.68,220,38,3.9,0.27,18.2,3.2,38.4,1.2,1.0,0.019,38.0,2.16,370
+59,Izanami,Physical,Hunter,"Ranged,",High Area Damage, Pusher,,630,81,6,0.7,210,35,4.4,0.38,15.4,3.1,38.4,1.2,0.92,0.016,34.0,2.4,365
+60,Janus,Magical,Mage,"Ranged,",High Area Damage, High Mobility,,560,74,6,0.45,350,58,5.0,0.45,11.2,2.8,38.4,1.2,1.0,0.008,34.0,1.45,360
+61,Jing Wei,Physical,Hunter,"Ranged,",High Mobility,,,623,82,7,0.68,205,36,4.4,0.3,15.4,3.1,38.4,1.2,1.0,0.014,38.0,2.7,370
+62,Jormungandr,Magical,Guardian,"Ranged,",High Area Damage,,,693,105,7,0.9,190,40,4.5,0.45,29.4,3.8,38.4,1.2,1.0,0.01,28.0,2.4,370
+63,Kali,Physical,Assassin,"Melee,",High Single Target Damage, High Sustain,,658,78,9,0.68,225,34,4.3,0.21,21.0,3.1,38.4,1.2,1.0,0.022,37.0,2.32,375
+64,Khepri,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,686,95,8,0.8,190,34,4.6,0.4,26.6,3.2,38.4,1.2,1.0,0.012,38.0,1.5,365
+65,King Arthur,Physical,Warrior,"Melee,",High Area Damage, High Crowd Control,,679,87,9,0.8,230,40,4.4,0.4,23.8,3.2,38.4,1.2,1.0,0.0,39.0,2.0,370
+66,Kukulkan,Magical,Mage,"Ranged,",High Area Damage, Pusher,,532,79,7,0.46,265,45,5.0,0.45,18.2,3.2,38.4,1.2,0.87,0.008,34.0,1.45,360
+67,Kumbhakarna,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,686,105,8,0.75,200,34,4.6,0.42,25.2,3.5,38.4,1.2,1.0,0.012,38.0,1.5,365
+68,Kuzenbo,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,700,105,8,0.85,200,34,4.6,0.42,25.2,3.5,38.4,1.2,1.0,0.012,38.0,1.5,365
+69,Lancelot,Physical,Assassin,"Melee,",High Mobility,,,644,81,9,0.7,230,40,1.6,0.46,19.6,3.1,38.4,1.2,1.0,0.019,38.0,2.3,370
+70,Loki,Physical,Assassin,"Melee,",High Single Target Damage,,,553,79,8,0.7,210,35,4.2,0.35,15.4,3.1,38.4,1.2,1.0,0.019,38.0,2.4,375
+71,Medusa,Physical,Hunter,"Ranged,",High Single Target Damage,,,658,81,8,0.68,220,34,4.4,0.25,16.8,3.2,38.4,1.2,0.95,0.013,38.0,2.6,365
+72,Mercury,Physical,Assassin,"Melee,",High Single Target Damage, High Mobility,,560,79,10,0.7,200,40,4.4,0.35,16.8,3.1,38.4,1.2,1.0,0.024,38.0,2.13,381
+73,Merlin,Magical,Mage,"Ranged,",High Area Damage,,,518,79,6,0.48,250,55,4.8,0.44,14.0,3.2,38.4,1.2,1.0,0.008,34.0,1.5,355
+74,Morgan Le Fay,Magical,Mage,"Ranged,",High Area Damage,,,602,81,8,0.48,250,55,4.8,0.44,19.6,3.2,38.4,1.2,1.0,0.008,35.0,1.5,365
+75,Mulan,Physical,Warrior,"Melee,",High Area Damage,,,686,88,9,0.7,220,38,4.7,0.4,25.2,3.2,38.4,1.2,1.0,0.01,39.0,2.2,375
+76,Ne Zha,Physical,Assassin,"Melee,",High Single Target Damage, Medium Crowd Control,,560,79,10,0.71,200,35,3.9,0.27,16.8,3.1,38.4,1.2,1.0,0.021,39.0,2.2,375
+77,Neith,Physical,Hunter,"Ranged,",High Crowd Control, High Sustain,,609,79,6,0.54,230,39,4.4,0.35,16.8,3.2,38.4,1.2,1.0,0.016,38.0,2.5,365
+78,Nemesis,Physical,Assassin,"Melee,",High Mobility,,,658,80,8,0.7,210,38,4.3,0.4,15.4,3.2,38.4,1.2,1.0,0.022,39.0,2.25,375
+79,Nike,Physical,Warrior,"Melee,",High Defense, Medium Crowd Control,,672,87,10,0.8,220,38,4.6,0.39,21.0,3.2,38.4,1.2,1.0,0.012,37.0,2.0,375
+80,Nox,Magical,Mage,"Ranged,",High Crowd Control,,,511,79,8,0.6,250,38,5.0,0.4,25.2,2.8,38.4,1.2,1.0,0.008,34.0,1.5,360
+81,Nu Wa,Magical,Mage,"Ranged,",Pusher,,,560,79,7,0.45,265,43,4.6,0.43,12.6,2.9,38.4,1.2,1.0,0.017,35.0,1.5,355
+82,Odin,Physical,Warrior,"Melee,",High Area Damage, High Crowd Control,,658,87,9,0.63,200,35,4.1,0.4,22.4,3.2,38.4,1.2,1.0,0.011,38.0,2.0,370
+83,Olorun,Magical,Mage,"Ranged,",High Attack Speed,,,630,79,7,0.45,240,58,5.0,0.4,18.2,3.2,38.4,1.2,1.05,0.016,32.0,1.9,370
+84,Osiris,Physical,Warrior,"Melee,",High Defense, High Attack Speed,,679,92,6,0.8,230,40,4.7,0.39,23.8,3.2,38.4,1.2,1.0,0.014,39.0,2.25,375
+85,Pele,Physical,Assassin,"Melee,",High Single Target Damage,,,644,81,9,0.7,240,40,4.3,0.4,16.8,3.1,38.4,1.2,1.0,0.02,39.0,2.25,375
+86,Persephone,,Mage,Magical,High Area Damage,,,518,79,7,0.45,280,55,5.0,0.42,12.6,2.9,38.4,1.2,0.95,0.009,34.0,1.7,360
+87,Poseidon,Magical,Mage,"Ranged,",High Area Damage,,,532,70,6,0.5,245,40,4.6,0.4,11.2,2.8,38.4,1.2,0.87,0.01,35.0,1.5,360
+88,Ra,Magical,Mage,"Ranged,",High Sustain, Pusher,,539,71,7,0.48,255,48,4.8,0.44,14.0,3.2,38.4,1.2,0.88,0.009,34.0,1.5,360
+89,Raijin,Magical,Mage,"Ranged,",Pusher, High Mobility,,539,84,6,0.45,255,43,4.6,0.46,12.6,3.3,38.4,1.2,0.87,0.008,34.0,1.5,355
+90,Rama,Physical,Hunter,"Ranged,",High Mobility, High Attack Speed,,644,80,8,0.65,205,34,4.5,0.25,16.8,3.0,38.4,1.2,0.95,0.016,40.0,2.5,370
+91,Ratatoskr,Physical,Assassin,"Melee,",Great Jungler, High Mobility,,588,77,9,0.7,240,41,4.6,0.46,16.8,3.2,38.4,1.2,1.0,0.02,39.0,2.25,375
+92,Ravana,Physical,Assassin,"Melee,",High Single Target Damage, High Sustain,,560,79,8,0.7,230,37,4.4,0.35,18.2,3.1,38.4,1.2,1.0,0.017,39.0,2.2,370
+93,Scylla,Magical,Mage,"Ranged,",High Area Damage,,,511,79,6,0.45,298,56,4.9,0.4,12.6,2.8,38.4,1.2,1.0,0.008,34.0,1.45,355
+94,Serqet,Physical,Assassin,"Melee,",High Single Target Damage, High Mobility,,560,78,9,0.7,240,40,4.3,0.29,19.6,3.1,38.4,1.2,1.0,0.022,39.0,2.25,370
+95,Set,Physical,Assassin,"Melee,",High Single Target Damage,,,609,79,9,0.7,210,38,4.2,0.38,18.2,3.1,38.4,1.2,1.0,0.019,39.0,2.3,375
+96,Shiva,Physical,Warrior,"Melee,",High Crowd Control,,,665,87,8,0.7,210,36,4.5,0.39,22.4,3.2,38.4,1.2,1.0,0.012,39.0,2.0,375
+97,Skadi,Physical,Hunter,"Ranged,",High Crowd Control, Pusher,,658,82,8,0.69,220,35,4.5,0.32,15.4,3.0,38.4,1.2,0.95,0.015,35.0,2.5,375
+98,Sobek,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,686,100,6,0.75,210,35,4.5,0.43,26.6,3.2,38.4,1.2,0.85,0.012,38.0,1.5,365
+99,Sol,Magical,Mage,"Ranged,",High Single Target Damage, High Mobility,,560,79,6,0.45,300,57,4.9,0.4,12.6,2.8,38.4,1.2,1.0,0.018,34.0,1.45,370
+100,Sun Wukong,Physical,Warrior,"Melee,",High Defense, High Mobility,,672,89,8,0.8,205,35,4.3,0.38,25.2,3.2,38.4,1.2,1.0,0.009,39.0,2.0,370
+101,Susano,Physical,Assassin,"Melee,",High Crowd Control, High Mobility,,609,80,9,0.7,225,38,4.2,0.27,19.6,3.1,38.4,1.2,1.0,0.022,38.0,2.2,370
+102,Sylvanus,Magical,Guardian,"Ranged,",High Crowd Control, High Sustain,,714,95,8,0.8,190,34,4.6,0.4,26.6,3.2,38.4,1.2,0.9,0.007,38.0,1.5,370
+103,Terra,Magical,Guardian,"Melee,",High Area Damage, High Sustain,,700,100,8,0.8,200,35,4.6,0.4,28.0,3.5,38.4,1.2,0.9,0.013,38.0,1.55,365
+104,Thanatos,Physical,Assassin,"Melee,",High Sustain,,,546,79,8,0.67,240,38,4.4,0.38,19.6,3.1,38.4,1.2,1.0,0.017,39.0,2.3,370
+105,The Morrigan,Magical,Mage,"Ranged,",High Area Damage,,,560,79,10,0.7,250,38,4.5,0.4,16.8,3.2,38.4,1.2,0.87,0.009,34.0,2.4,365
+106,Thor,Physical,Assassin,"Melee,",High Single Target Damage, Medium Crowd Control,,665,80,9,0.69,240,38,4.4,0.29,19.6,3.1,38.4,1.2,1.0,0.014,39.0,2.4,370
+107,Thoth,Magical,Mage,"Ranged,",High Area Damage,,,511,79,6,0.45,245,49,4.6,0.44,12.6,2.8,38.4,1.2,1.0,0.012,32.0,1.5,355
+108,Tiamat,Magical,Mage,"Ranged,",High Area Damage,,,560,81,7,0.5,300,55,5.0,0.44,18.2,2.9,38.4,1.2,0.88,0.009,34.0,1.5,360
+109,Tsukuyomi,Physical,Assassin,"Melee,",High Single Target Damage,,,637,82,8,0.68,205,35,4.5,0.46,18.2,3.0,38.4,1.2,1.0,0.013,35.0,2.4,375
+110,Tyr,Physical,Warrior,"Melee,",High Defense, Medium Crowd Control,,679,87,8,0.72,230,40,4.4,0.29,25.2,3.2,38.4,1.2,1.0,0.009,39.0,2.0,375
+111,Ullr,Physical,Hunter,"Ranged,",High Sustain,,,672,84,8,0.71,230,40,4.4,0.38,18.2,3.2,38.4,1.2,0.95,0.014,38.0,2.4,360
+112,Vamana,Physical,Warrior,"Melee,",High Defense, High Sustain,,686,92,8,0.5,200,39,4.7,0.41,25.2,3.1,38.4,1.2,0.9,0.013,37.0,2.0,375
+113,Vulcan,Magical,Mage,"Ranged,",High Area Damage, Pusher,,532,75,7,0.48,245,40,4.8,0.45,18.2,3.2,38.4,1.2,0.9,0.01,34.0,1.5,360
+114,Xbalanque,Physical,Hunter,"Ranged,",High Single Target Damage, Medium Area Damage,,637,79,8,0.68,220,37,4.4,0.4,16.8,3.1,38.4,1.2,0.95,0.014,40.0,2.5,365
+115,Xing Tian,Magical,Guardian,"Melee,",High Crowd Control,,,693,95,5,0.54,200,40,4.5,0.45,29.4,3.7,38.4,1.2,0.9,0.011,35.0,1.55,360
+116,Yemoja,Magical,Guardian,"Ranged,",High Sustain,,,686,100,6,0.7,0,0,0.0,0.0,26.6,3.2,38.4,1.2,1.0,0.012,34.0,1.5,365
+117,Ymir,Magical,Guardian,"Melee,",High Crowd Control, High Defense,,714,109,8,0.9,200,32,4.5,0.4,32.2,3.6,38.4,1.2,0.85,0.01,38.0,1.55,370
+118,Yu Huang,Magical,Mage,"Ranged,",High Area Damage,,,560,81,7,0.47,280,55,4.7,0.44,16.8,3.2,38.4,1.2,1.0,0.012,35.0,1.5,355
+119,Zeus,Magical,Mage,"Ranged,",High Area Damage,,,532,75,6,0.45,245,44,4.6,0.45,11.2,2.9,38.4,1.2,0.95,0.009,35.0,1.5,360
+120,Zhong Kui,Magical,Mage,"Ranged,",High Area Damage, Medium Crowd Control,,630,89,6,0.44,250,47,4.8,0.45,11.2,2.8,38.4,1.2,0.86,0.009,33.0,1.5,360
