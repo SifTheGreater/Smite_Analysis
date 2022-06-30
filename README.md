@@ -3,11 +3,20 @@ A Data analysis with some ML models on the data gotten from the Hi Rez Video Gam
 
 ## GOAL
 
-This is a long form project i was working on with the following goals.
-- I wanted to understand how to work with an APi and be able to pull data effectivly
-- I wanted to be able to store alrge amounts of data into a personal SQL database
-- I wanted to be able to use this SQL database effectivly to build up some data analysis knowledge#
-- I wanted to apply my data science knowledge to anser some questions about the game that would eb easier to answer with the data
+This is a long form project I was working on with the following goals.
+- I wanted to understand how to work with an API and be able to pull data effectivly
+- I wanted to be able to store large amounts of data into a personal SQL database
+- I wanted to be able to use this SQL database effectivly to build up some data analysis knowledge
+- I wanted to apply my data science knowledge to anser some questions about the game that would be easier to answer with the data
+
+## Questions to Answer
+- What classes are the Tankiest Squsihiest ect. (base stats analysis)
+- Can you identify classes based on there base stats alone?
+- What team comps give you the best chance of winning, does youre oponents comp matter in your choice of comp.
+- Can we find a way of reccomending items to build based on the current items and gods in the game
+- What contributes most to winning the game, build? gods? wards placed?
+- Also want to use the data to build up dashboards for both gods base stats and item builder and maybe DPS calculator.
+- Construct way to accuractly calculating Time to Kill an oponent.
 
 ## STRUCTURE
 In the root folder of the database I have all of the current files, 
